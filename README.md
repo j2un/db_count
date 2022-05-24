@@ -1,3 +1,3 @@
 # db_count
 
-http://localhost/db_count.php
+![image](https://user-images.githubusercontent.com/102707499/170017610-b94cbf0b-5b57-4a73-9b70-cee2ebbb3c41.png)
